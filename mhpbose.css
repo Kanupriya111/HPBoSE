@@ -165,6 +165,7 @@
 @media (min-width:300px) and (max-width:670px){
     *{
         font-size: 5px;
+        overflow:hidden;
     }
     .ul2{
         text-decoration: underline;
@@ -180,7 +181,7 @@
         margin-right: 1px;
     }
     #footer{
-        height:150px;
+        height:160px;
         font-size: 5px;
         margin-top: 10px;
     }
@@ -228,7 +229,7 @@
         height: 150px;
     }
     .hh{
-        font-size: 5px;
+        font-size: 6px;
         margin-top: 20px;
     }
     .fav,.favv{
